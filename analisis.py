@@ -1,6 +1,6 @@
 import random
 import sys
-from collections import Counter
+
 
 def generar_datos(numero_elementos):
     random.seed(33)
